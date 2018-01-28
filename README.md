@@ -1,6 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/PHPAuth/PHPAuth.png?label=ready&title=Ready)](https://waffle.io/PHPAuth/PHPAuth)
-[![Build Status](https://api.travis-ci.org/PHPAuth/PHPAuth.png)](https://api.travis-ci.org/PHPAuth/PHPAuth) 
-[![ghit.me](https://ghit.me/badge.svg?repo=phpauth/phpauth)](https://ghit.me/repo/phpauth/phpauth)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg?style=flat-circle)](https://php.net/)
 
 PHPAuth
@@ -8,6 +5,8 @@ PHPAuth
 
 What is it
 ---------------
+
+This is a fork of PHPAuth.
 
 PHPAuth is a secure user authentication class for PHP websites, using a powerful password hashing system and attack blocking to keep your website and users secure.
 
